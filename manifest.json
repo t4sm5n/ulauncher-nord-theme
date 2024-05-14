@@ -5,6 +5,7 @@
     "developer_name": "t4sm5n",
     "display_name": "Nord Theme",
     "extend_theme": "dark",
+    "icon": "icon.png",
     "css_file": "theme.css",
     "css_file_gtk_3.20+": "theme-gtk-3.20.css",
     "matched_text_hl_colors": {
