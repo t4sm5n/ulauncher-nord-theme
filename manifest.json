@@ -2,6 +2,7 @@
     "required_api_version": "^2.0.0",
     "name": "nord-theme",
     "description": "Nord theme",
+    "developer_name": "t4sm5n",
     "display_name": "Nord Theme",
     "extend_theme": "dark",
     "css_file": "theme.css",
